@@ -22,6 +22,10 @@ I'm a passionate web developer and open source enthusiast.
 
 ---
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ 
+--- 
+
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/amitksingha/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/omit.singh.7/)
