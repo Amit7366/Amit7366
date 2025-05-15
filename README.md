@@ -22,7 +22,7 @@ I'm a passionate web developer and open source enthusiast.
 
 ---
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=amit7366.my-3d-portfolio&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=amit7366.visitor-badge)
  
 --- 
 
